@@ -1,0 +1,2 @@
+UniprotID_A	UniProtName_A	GeneName_A	UniprotID_B	UniProtName_B	GeneName_B	Exp. Evidences	Methods	Publications	3DStructures	CurationEvents
+O15528	CP27B_HUMAN	CYP27B1	Q9BT73	PSMG3_HUMAN	PSMG3	1	1	1	0	1
